@@ -1,1 +1,1 @@
-![Descripción de la imagen](images/tienda.jpeg)
+![Descripción de la imagen](imagenes/tienda.jpeg)
